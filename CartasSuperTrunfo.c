@@ -14,23 +14,16 @@ int main() {
     scanf("%d", &Numerodepontosturisticos);
 
     printf("Digite a Área: \n");
-    scanf("%f" &Area);
+    scanf("%f", &Area);
 
-    printf("Digite o Pib \n");
-    scanf("%f" &Pib);
+    printf("Digite o Pib:  \n");
+    scanf("%f", &Pib);
 
-    printf("Nome da Cidade é: %s\n", NomedaCidade);
+    printf("Nome da Cidade: %s\n", NomedaCidade);
     printf("População: %d\n", Populacao);
     printf("Pontos Turisticos: %d\n", Numerodepontosturisticos);
-    printf("Área: %f\n", Area);
+    printf("Area: %f\n", Area);
     printf("Pib: %f\n", Pib);
-
-
-
-
-
-
-
 
 
     return 0;
